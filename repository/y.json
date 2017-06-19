@@ -12,6 +12,16 @@
 			]
 		},
 		{
+			"name": "YAML Macros",
+			"details": "https://github.com/Thom1729/YAML-Macros",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "YAML Nav",
 			"details": "https://github.com/ddiachkov/sublime-yaml-nav",
 			"releases": [
@@ -175,7 +185,7 @@
 		},
 		{
 			"name": "Yii2 Snippets",
-			"details": "https://github.com/filipyev/yii2-snippets",
+			"details": "https://github.com/psy-man/yii2-snippets",
 			"labels": ["snippets"],
 			"releases": [
 				{
